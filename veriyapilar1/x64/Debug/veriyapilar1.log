@@ -1,0 +1,4 @@
+﻿  veriyapilar1.cpp
+C:\Users\Lenovo\source\repos\veriyapilar1\veriyapilar1\veriyapilar1.cpp(19,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Lenovo\source\repos\veriyapilar1\veriyapilar1\veriyapilar1.cpp(64,20): warning C4101: 'numberOrder': unreferenced local variable
+  veriyapilar1.vcxproj -> C:\Users\Lenovo\source\repos\veriyapilar1\x64\Debug\veriyapilar1.exe
